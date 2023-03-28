@@ -10,7 +10,7 @@ The repository is organized into folders for each day of the challenge. Each day
 ### Getting Started
 To get started with this repository, clone it to your local machine by running the following command:
 
-<pre> git clone https://github.com/<your-username>/100-Days-Of-Code-python.git</pre>
+<pre> git clone https://github.com/Pylogicx/100-Days-Of-Code-Python.git</pre>
 
 Make sure you have Python installed on your machine before running the code.
 

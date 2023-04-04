@@ -1,0 +1,32 @@
+Problem 01:
+Write a Python program that takes two numbers as input and then prints out their greatest common divisor (GCD).
+
+Problem 03:
+Write a Python program that takes a list of integers as input and then prints out a list of all the prime numbers in the list.
+
+Problem 04:
+Write a Python program that takes a list of integers as input and then removes all the duplicates from the list
+
+Problem 05:
+Write a Python program that takes a list of integers as input and then prints out a list of all the even numbers in the list that are also prime numbers.
+
+Problem 06:
+Write a Python program that takes a list of strings as input and returns a new list with all the strings that have length greater than 4.
+
+Problem 07:
+Write a Python program that takes two lists as input and then returns a new list containing all the elements that are unique to each list
+
+Problem 08:
+Write a Python program that takes a list of integers as input and then returns the average of all the numbers in the list
+
+Problem 09:
+Write a Python program that takes a list of integers as input and then returns a new list containing only the odd numbers from the original list
+
+Problem 10:
+Write a Python program that takes a list of numbers as input and then returns a new list with all the numbers squared
+
+Problem 11:
+Write a Python program that takes a string as input and then returns a new string with each word in reverse order
+
+Problem 12:
+Write a Python program that takes a list of strings as input and then returns a new list with all the strings converted to uppercase

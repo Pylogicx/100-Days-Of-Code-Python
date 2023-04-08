@@ -1,0 +1,17 @@
+* Algorithms: step-by-step procedures for solving problems
+* Data Types: represent the different types of values that can be stored and manipulated in a program
+* Control Structures: used to control the flow of a program
+* Functions: reusable blocks of code that perform a specific task
+* Debugging: process of finding and fixing errors in a program
+* Variables: used to store and manipulate data in a program
+* Input and Output: fundamental operations in programming
+* Operators: used to perform mathematical and logical operations in a program
+* Data Structures: used to store and organize data in a program
+* Object-Oriented Programming (OOP): programming paradigm that emphasizes the use of objects and classes to organize code
+* Recursion: a technique used in programming where a function calls itself
+* Error Handling: the process of detecting, reporting, and handling errors in a program
+* Loops: used to execute a block of code repeatedly
+* Strings and String Manipulation: used to represent text in a program
+* Lists and List Manipulation: used to store collections of data in a program
+* Debugging Tools: tools to help identify and fix errors in programs
+* Basic Computer Science Concepts: algorithms, data structures, sorting and searching algorithms, and basic complexity theory.
